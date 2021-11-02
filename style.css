@@ -1,0 +1,25 @@
+#wrapper{
+    margin: auto;
+    width: 600px;
+    height: 430px;
+    background-color: #9932cc;
+ 
+}
+
+#change-color{
+    width: 170px;
+    height: 60px;
+    padding: 20px;
+    border-radius: 22px;
+    background-color: black;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left: 600px;
+    color: wheat;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    padding-top: 145px;
+    color: #fff;
+}
